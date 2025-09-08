@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: khaki;
+}
+ul {
+    background-color: white;
+}
+.text-verde {
+    color: darkgreen;
+    background-color: dimgray;
+}
+.text-vermelho {
+    color: red;
+    text-align: center;
+    background-color: dimgray;
+}
+.text-azul {
+    color: blue;
+    text-align: right;
+    background-color: dimgray;
+}
+.text-roxo {
+    color: purple;
+    text-align: center;
+    background-color: dimgray;
+}
+.text-amarelo {
+    color: yellow;
+    background-color: dimgray;
+}
+.text-rosa {
+    color: pink;
+    text-align: center;
+    background-color: dimgray;
+}
+li:hover {
+    color: black;
+    background-color: white;
+    text-align: start;
+}
